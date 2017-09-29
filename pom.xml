@@ -9,18 +9,15 @@
     <version>1.0</version>
     <dependencies>
         <dependency>
-            <groupId>assignment1</groupId>
-            <artifactId>SoftwareEngineering</artifactId>
-            <version>1.0</version>
+            <groupId>com.github.daramolloy</groupId>
+            <artifactId>MavenProject</artifactId>
+            <version>-SNAPSHOT</version>
         </dependency>
     </dependencies>
     <repositories>
             <repository>
-                <id>assignment1</id>
-                <name>SoftwareEngineering</name>
-                <url>
-                    https://www.dropbox.com/sh/ien0kyu1ciautya/AADd4YFb3BcctrzKWq5e6Lqoa?dl=0
-                </url>
+                <id>jitpack.io</id>
+                <url>https://jitpack.io</url>
             </repository>
     </repositories>
     <build>
